@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab_vezba_2", "Lab_vezba_2\Lab_vezba_2.vcxproj", "{741BFDA7-91B1-4912-93C9-3C430E5474DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{741BFDA7-91B1-4912-93C9-3C430E5474DA}.Debug|x64.ActiveCfg = Debug|x64
+		{741BFDA7-91B1-4912-93C9-3C430E5474DA}.Debug|x64.Build.0 = Debug|x64
+		{741BFDA7-91B1-4912-93C9-3C430E5474DA}.Debug|x86.ActiveCfg = Debug|Win32
+		{741BFDA7-91B1-4912-93C9-3C430E5474DA}.Debug|x86.Build.0 = Debug|Win32
+		{741BFDA7-91B1-4912-93C9-3C430E5474DA}.Release|x64.ActiveCfg = Release|x64
+		{741BFDA7-91B1-4912-93C9-3C430E5474DA}.Release|x64.Build.0 = Release|x64
+		{741BFDA7-91B1-4912-93C9-3C430E5474DA}.Release|x86.ActiveCfg = Release|Win32
+		{741BFDA7-91B1-4912-93C9-3C430E5474DA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AB7D2FB-168A-437C-ACBA-89FE94386FFA}
+	EndGlobalSection
+EndGlobal
